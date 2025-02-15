@@ -1,17 +1,16 @@
 Hi 👋 My name is Jennet
 =======================
 
-Frontend developer
+QA Engineer
 ------------------
 
-I am a beginner frontend developer with a strong desire to learn. After completing my frontend development course at Hexlet, I gained solid skills in HTML, CSS, and JavaScript, as well as experience with libraries and frameworks. I am constantly expanding my skills and eager to apply them in real-world projects. I am looking for a junior frontend developer position or an internship!
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [berdievajennet@yandex.ru](mailto:berdievajennet@yandex.ru)
-* 🧠  I'm learning React
 
 ### Skills
 * JavaScirpt
+* SQL
 * HTML
 * CSS
 * Git, GitHub
